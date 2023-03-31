@@ -145,7 +145,7 @@ maven_install(
         "io.grpc:protoc-gen-grpc-java:1.42.1",
         "com.fasterxml.jackson.core:jackson-databind:2.13.0",
         "org.apache.httpcomponents:httpclient:4.5.13",
-        "org.hibernate:hibernate-core:5.6.0.Final",
+        "org.hibernate:hibernate-core:5.6.15.Final",
         "org.apache.commons:commons-csv:1.9.0",
         "commons-codec:commons-codec:1.15",
         "com.fasterxml.jackson.core:jackson-databind:2.13.0",
