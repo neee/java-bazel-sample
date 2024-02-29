@@ -171,7 +171,7 @@ maven_install(
         "com.google.guava:failureaccess:1.0.1",
         "com.google.guava:guava:31.0.1-jre",
         "com.google.j2objc:j2objc-annotations:1.3",
-        "com.google.truth:truth:1.1.3",
+        "com.google.truth:truth:1.4.2",
         "com.squareup.okhttp:okhttp:2.7.5",
         "io.netty:netty-buffer:4.1.70.Final",
         "io.netty:netty-codec-http2:4.1.70.Final",
