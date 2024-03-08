@@ -182,7 +182,7 @@ maven_install(
         "io.netty:netty-handler-proxy:4.1.70.Final",
         "io.netty:netty-handler:4.1.70.Final",
         "io.netty:netty-resolver:4.1.70.Final",
-        "io.netty:netty-tcnative-boringssl-static:2.0.46.Final",
+        "io.netty:netty-tcnative-boringssl-static:2.0.65.Final",
         "io.netty:netty-transport-native-epoll:jar:linux-x86_64:4.1.70.Final",
         "io.netty:netty-transport:4.1.70.Final",
         "io.opencensus:opencensus-api:0.28.3",
