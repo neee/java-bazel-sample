@@ -212,7 +212,7 @@ compat_repositories()
 
 git_repository(
     name = "io_bazel_rules_docker",
-    commit = "af1743d5e3b946930fcdcde3b8563ba3598ff3bd",
+    commit = "559dcb3616904cda87b64c91efabdfb477de3cb8",
     remote = "https://github.com/jracollins/rules_docker.git",
     shallow_since = "1638195629 +0000",
 )
