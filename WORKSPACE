@@ -47,9 +47,9 @@ load("@rules_jvm_external//:specs.bzl", "maven")
 
 http_archive(
     name = "rules_spring",
-    sha256 = "901462e6872f282636e3ca91f4976bc31e7024fb9760ddca2c9bac467b03d1db",
+    sha256 = "2d0805b4096db89b8e407ed0c243ce81c3d20f346e4c259885041d5eabc59436",
     urls = [
-        "https://github.com/salesforce/rules_spring/releases/download/2.2.0/rules-spring-2.2.0.zip",
+        "https://github.com/salesforce/rules_spring/releases/download/2.6.3/rules-spring-2.6.3.zip",
     ],
 )
 
