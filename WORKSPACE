@@ -129,7 +129,7 @@ maven_install(
         "io.micrometer:micrometer-registry-prometheus:1.7.6",
         "io.sentry:sentry-spring-boot-starter:5.2.1",
         "io.sentry:sentry-logback:5.2.1",
-        "org.slf4j:slf4j-api:1.7.32",
+        "org.slf4j:slf4j-api:1.7.36",
         "org.apache.commons:commons-lang3:3.12.0",
         "commons-validator:commons-validator:1.7",
         "commons-io:commons-io:2.11.0",
