@@ -55,7 +55,7 @@ http_archive(
 
 git_repository(
     name = "rules_proto",
-    commit = "11bf7c25e666dd7ddacbcd4d4c4a9de7a25175f8",
+    commit = "dcd61fec58ad7d9fa49a3736a2afbce29cf927c2",
     remote = "https://github.com/bazelbuild/rules_proto.git",
     shallow_since = "1637060833 +0100",
 )
