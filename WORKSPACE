@@ -111,7 +111,7 @@ maven_install(
         "org.springframework:spring-aspects:5.3.13",
         "org.springframework:spring-beans:5.3.13",
         "org.springframework:spring-context:5.3.13",
-        "org.springframework.retry:spring-retry:1.3.1",
+        "org.springframework.retry:spring-retry:1.3.4",
         "org.springframework.data:spring-data-jpa:2.5.6",
         "org.springframework.data:spring-data-elasticsearch:4.2.6",
         "org.springframework.security:spring-security-core:5.6.0",
